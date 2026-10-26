@@ -1,3 +1,4 @@
+
 [app]
 title = Korg Pa Manager
 package.name = korgpamanager
@@ -18,7 +19,5 @@ android.api = 33
 android.minapi = 21
 android.sdk = 33
 android.ndk = 25b
-android.build_tools_version = 33.0.2
 android.permissions = INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
-android.archs = arm64-v8a, armeabi-v7a
 p4a.bootstrap = sdl2
